@@ -1,0 +1,2 @@
+# gitDersi
+github deniyorum
